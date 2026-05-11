@@ -3,6 +3,28 @@ O Cyber Hunter Lab é uma plataforma de segurança ofensiva autoral focada em au
 
 
 
+# 🛡️ Cyber Hunter Lab
+### [cyberhunterlab.com.br](https://cyberhunterlab.com.br)
+
+**Cyber Hunter Lab** é um ecossistema autoral focado em automação de segurança ofensiva e orquestração de IA. Desenvolvido por Ana Caroline Lamas, o projeto une backend em Python e sistemas multi-agentes para transformar a descoberta de vulnerabilidades em um processo de alta performance.
+
+## 🚀 Diferenciais
+*   **Automação de Elite:** Foco em falhas críticas como LFI e XSS.
+*   **Orquestração de IA:** Agentes inteligentes para análise técnica e PoCs.
+*   **Arquitetura Própria:** Backend robusto em Python para reconhecimento em larga escala.
+
+## 🔗 Acesse
+Visite nosso site oficial para mais detalhes e serviços:
+👉 **[cyberhunterlab.com.br](https://cyberhunterlab.com.br)**
+
+---
+**Ana Caroline Lamas**  
+*Pesquisadora de Cibersegurança | Bug Hunter | Backend Developer*
+
+
+
+
+
 O **Cyber Hunter Lab** não é apenas uma coleção de scripts, mas um ecossistema de segurança ofensiva projetado para elevar o patamar da caça a bugs e da análise de vulnerabilidades. O projeto nasceu da necessidade de integrar ferramentas de reconhecimento tradicionais com o poder da **IA Generativa** e a flexibilidade do **desenvolvimento backend moderno**.
 #### 🏗️ Arquitetura e Engenharia de Software
 A base do Lab é construída sobre uma arquitetura modular em **Python**, permitindo que cada componente funcione de forma independente ou integrada:
